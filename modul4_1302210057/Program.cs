@@ -1,4 +1,4 @@
-﻿public class Program
+﻿public class PosisiKarakterGame
 {
     enum State { Tengkurap, Jongkok, Berdiri, Terbang };
     public static void Main()
